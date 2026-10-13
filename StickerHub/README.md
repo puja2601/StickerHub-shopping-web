@@ -2,13 +2,6 @@
 # StickerHub-shopping-web
 Full Stack E-Commerce / Shopping Web Application built using Java 8, Spring Boot, REST APIs, MySQL, and React.js.
 
-## 🚀 Tech Stack
-
-- **Backend:** Java 8, Spring Boot, RESTful APIs, Spring Data JPA
-- **Frontend:** React.js, JavaScript, HTML5, CSS3, Axios
-- **Database:** MySQL
-- **Tools & Platform:** Git, GitHub, Postman, Docker
-=======
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
